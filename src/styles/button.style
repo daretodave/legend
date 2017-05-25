@@ -1,0 +1,15 @@
+standard {
+	style=text|fill;
+	bounded=true;
+	text=#FFFFFF;
+	color=#2A7E9E;
+	size=12F;
+	align=middle;
+	valign=middle;
+}
+hover {
+	style=text|fill|stroke;
+}
+press {
+	border=#0000FF;
+}

@@ -1,0 +1,6 @@
+standard {
+	style=text;
+	bounded=false;
+	color=#FFFFFF;
+	size=12F;
+}

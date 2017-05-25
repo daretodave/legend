@@ -1,0 +1,9 @@
+standard {
+	color = #282828;
+}
+hover {
+	color = #585858;
+}
+focused {
+	color = #C0C0C0;
+}
